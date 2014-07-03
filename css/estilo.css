@@ -1,0 +1,25 @@
+#page2, #page1, #page4, #page5{
+	font-size: 2em;
+	line-height: 45px;
+}
+
+#page1{
+	background: url('images/brazil.jpg') no-repeat top center transparent;
+}
+
+#page2{
+	background: url('images/instrucciones.jpg') no-repeat top center #fff;
+}
+
+#page3{
+	background: url('images/Cancha.jpg') no-repeat top center transparent;
+}
+
+#page4{
+	background: url('images/cuantas.jpg') no-repeat top center transparent;
+}
+
+
+h1 {
+	color: #0F3A64;
+}
